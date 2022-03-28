@@ -1,6 +1,15 @@
+# 👋 Who am I?
+Hello, my name is Jason or {JSON} as I am more commonly known as, I am a full time student at the University of the Highlands and Islands studying a bachelors in Applied Software Development, I am currently also a part time Customer Delivery Driver at Tesco and have been with the company for 7 years so far.
+
+
+
+<br>
+
 # 🧑‍💻 Solo Projects
 [<img src="img/coord.png" alt="coord" width="80"/>](https://beta.coord.uk)  
-[**COORD**](https://beta.coord.uk) (Formerly [OSG2C](https://osg2c.uk)) is a progressive web app for iOS and Android made specifically for delivery drivers who need to be able to find obscure addresses quickly and easily, written in Typescript and Javascript and deployed using a custom Gitlab CI/CD runner to build a docker image and run in a container on the same server
+[**COORD**](https://beta.coord.uk) (Formerly [OSG2C](https://osg2c.uk)) is a progressive web app for iOS and Android made specifically for delivery drivers who need to be able to find obscure addresses quickly and easily, written in Typescript and Javascript and deployed using a custom Gitlab CI/CD runner to build a docker image and run in a container on the same server.
+
+I created this app originally to make it easier finding coordinates for specific addresses for myself and my fellow Tesco colleagues as I noticed that it would be very time consuming for us to cross reference 
 
 ### Tech Stack:
 * **NodeJS**
@@ -51,26 +60,27 @@
 * **IBM Cloud**
 * **IBM Watson**
 * **HERE Maps**
-<hr><br>
-
-# 🏅 Skills
+<br><br>
 
 
-# 📃 Badges & Certificates
-<img src="img/uhi_logo.png" alt="feudal" width="80"/>
+# 📃 Education & Certificates
+<img src="img/uhi_logo.png" alt="UHI logo" width="80"/>
 
-Digital Media Basics SCQF Level 4 - **University of the Highlands and Islands** (2017)  
-Computing with Web Design SCQF Level 5 - **University of the Highlands and Islands** (2018 - 2019)  
-Computing with Cyber Security SCQF Level 6 - **University of the Highlands and Islands** (2019 - 2020)  
-Applied Software Development BSc(Hons) - **University of the Highlands and Islands** (2020 - Current)  
+##### **University of the Highlands and Islands**  
+**Digital Media Basics SCQF Level 4**: 2017 - 2018  
+**Computing with Web Design SCQF Level 5**: 2018 - 2019  
+**Computing with Cyber Security SCQF Level 6**: 2019 - 2020  
+**Applied Software Development BSc(Hons)**: 2020 - Current  
+
+<br>
+<img src="img/ibm_logo.png" alt="IBM logo" width="80"/>
+
+##### **IBM**  
+[Open Source Foundations](https://www.credly.com/badges/c459e015-c678-4e63-9d9a-1285c64efdf5?source=linked_in_profile) -  Feb 2022  
+[Enterprise Design Thinking Practitioner](https://www.youracclaim.com/badges/c459e015-c678-4e63-9d9a-1285c64efdf5?source=linked_in_profile) - Nov 2020
 
 <br>
 
-<img src="img/ibm_logo.png" alt="feudal" width="80"/>
-
-[Open Source Foundations](https://www.credly.com/badges/c459e015-c678-4e63-9d9a-1285c64efdf5?source=linked_in_profile) - **IBM** (Feb 2022)  
-[Enterprise Design Thinking Practitioner](https://www.youracclaim.com/badges/c459e015-c678-4e63-9d9a-1285c64efdf5?source=linked_in_profile) - **IBM** (Nov 2020)
-
 # 🙋‍♂️ Social Links
-LinkedIn: https://www.linkedin.com/in/yaml-alternative/  
-Twitter: https://twitter.com/BowedYapper
+**LinkedIn**: https://www.linkedin.com/in/yaml-alternative/  
+**Twitter**: https://twitter.com/BowedYapper
