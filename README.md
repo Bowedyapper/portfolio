@@ -64,7 +64,7 @@ Mr Bit is a bot for discord and slack that was originally created to increase pr
 
 Feudal is an online browser based MMORPG developed entirely in Javascript / HTML using Sockets for realtime communication, its frontend is built using Svelte and the backend is a dockerised NodeJS Express/SocketIO server with server to server communication via Redis Pub/Sub and load balancing with HAProxy, building it this way will make future migration to a Kubernetes cluster much easier.
 
-It is very much still in the alpha phase as we are still building the base architecture and working out how to tackle game logic, it has allowed me to learn new concepts that I had never previously encountered, such as WebSockets, load balancing, containerisation, clustering, CI/CD(Continuous Integration / Continuous Delivery)
+It is very much still in the alpha phase as we are still building the base architecture and working out how to tackle game logic, it has allowed me to learn new concepts that I had never previously encountered, such as WebSockets, load balancing, containerisation, clustering, CI/CD(Continuous Integration / Continuous Delivery) and even new programming concepts.
 
 **Tech Stack:**
 
