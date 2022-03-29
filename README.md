@@ -11,7 +11,7 @@ My main passion in life is definitely programming, I remember writing my first l
 
 ## 🧑‍💻 Solo Projects
 
-## [**COORD**](https://beta.coord.uk)
+### [**COORD**](https://beta.coord.uk)
 
 [![Coord Logo](img/coord.png)](https://beta.coord.uk)
 
@@ -37,7 +37,7 @@ I created this app originally to make it easier finding coordinates for specific
 ![Coord Search Screen](img/coord_search_screen.png)
 ![Coord Settings Screen](img/coord_settings_screen.png)
 
-## [**Mr Bit**](https://gitlab.com/Bowedyapper/mr-bit-slack/)
+### [**Mr Bit**](https://gitlab.com/Bowedyapper/mr-bit-slack/)
 
 [![Mr Bit Slack Logo](img/mrbitslack.png)](https://gitlab.com/Bowedyapper/mr-bit-slack/)
 
@@ -54,10 +54,9 @@ Mr Bit is a bot for discord and slack that was originally created to increase pr
 ![Mr Bit Direct Message](img/mr_bit_dm.png)
 ![Mr Bit Learning Outcome](img/mr_bit_lo.png)
 
-
 ## 👥 Team projects
 
-## [**Feudal**](https://feud.al)
+### [**Feudal**](https://feud.al)
 
 [![Feudal Logo](img/feudal.png)](https://feud.al)
 
@@ -75,7 +74,7 @@ is an online browser based MMORPG
 * **Tailwind CSS**
 * **Gitlab CI/CD**
 
-## **IBM's Call for Code University Spot Challenge - Climate Change**
+### **IBM's Call for Code University Spot Challenge - Climate Change**
 
 [![Call for code logo](img/call_for_code.png)](https://callforcode.org/global-challenge/)
 
