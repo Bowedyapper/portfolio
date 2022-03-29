@@ -9,8 +9,6 @@ In my spare time I also like to play piano and create music, I recently released
 
 My main passion in life is definitely programming, I remember writing my first line of code on an Amstrad CPC 464 way back in 1999 when I was just 7, it didn't do much, just a simple ```PRINT "Hello"``` and that fascinated me and is definitely what inspired me to learn more in later years.
 
----
-
 ## 🧑‍💻 Solo Projects
 
 ## [**COORD**](https://beta.coord.uk)
@@ -39,7 +37,6 @@ I created this app originally to make it easier finding coordinates for specific
 ![Coord Search Screen](img/coord_search_screen.png)
 ![Coord Settings Screen](img/coord_settings_screen.png)
 
-
 ## [**Mr Bit**](https://gitlab.com/Bowedyapper/mr-bit-slack/)
 
 [![Mr Bit Slack Logo](img/mrbitslack.png)](https://gitlab.com/Bowedyapper/mr-bit-slack/)
@@ -57,7 +54,6 @@ Mr Bit is a bot for discord and slack that was originally created to increase pr
 ![Mr Bit Direct Message](img/mr_bit_dm.png)
 ![Mr Bit Learning Outcome](img/mr_bit_lo.png)
 
----
 
 ## 👥 Team projects
 
