@@ -92,6 +92,7 @@ It is very much still in the alpha phase as we are still building the base archi
 
 Our team came first place in the disaster resiliency category for IBM's 2020 Call for code University spot challenge, we created a prototype app that allowed communities to donate and link to resources that might help people and communities in the event of a disaster. We even employed the use of IBM Watson to create a chat bot that could provide additional support.
 
+[Article from IBM](https://uk.newsroom.ibm.com/2020-11-26-University-of-the-Highlands-andIs-lands-students-celebrate-success-in-international-code-challenge)  
 [Link to repository](https://github.com/iLewisBrogan/callforcode-uhi)
 
 **Tech Stack:**
