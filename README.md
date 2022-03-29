@@ -86,7 +86,7 @@ It is very much still in the alpha phase as we are still building the base archi
 ![Feudal Home](img/Feudal_inv.png)
 ![Feudal Home](img/Feudal_menu.png)
 
-### **IBM's Call for Code University Spot Challenge - Climate Change**
+### [**IBM's Call for Code University Spot Challenge - Climate Change**](https://github.com/iLewisBrogan/callforcode-uhi)
 
 [![Call for code logo](img/call_for_code.png)](https://callforcode.org/global-challenge/)
 
