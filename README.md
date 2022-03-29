@@ -19,6 +19,8 @@ Formerly [OSG2C](https://osg2c.uk) is a progressive web app for iOS and Android 
 
 I created this app originally to make it easier finding coordinates for specific addresses for myself and my fellow Tesco colleagues as we had to cross reference with certain tools like [One Scotland Gazateer](https://osg.scot) with Google or Apple maps and it was extremely time consuming to do, so I decided to create a tool that will allow us to find them much quicker and provide direct coordinates to every address as they would be added manually by myself and other drivers, it has had great success so far and I would like to continually improve it.
 
+The previous version was written in PHP, HTML and Javascript,using MYSQL as a database, but after all I have learned from the Feudal project, I knew I could greatly improve it.
+
 **Tech Stack:**
 
 * **NodeJS**
@@ -60,7 +62,9 @@ Mr Bit is a bot for discord and slack that was originally created to increase pr
 
 [![Feudal Logo](img/feudal.png)](https://feud.al)
 
-is an online browser based MMORPG  
+Feudal is an online browser based MMORPG developed entirely in Javascript / HTML using Sockets for realtime communication, its frontend is built using Svelte and the backend is a dockerised NodeJS Express/SocketIO server with server to server communication via Redis Pub/Sub and load balancing with HAProxy, building it this way will make future migration to a Kubernetes cluster much easier.
+
+It is very much still in the alpha phase as we are still building the base architecture and working out how to tackle game logic, it has allowed me to learn new concepts that I had never previously encountered, such as WebSockets, load balancing, containerisation, clustering, CI/CD(Continuous Integration / Continuous Delivery)
 
 **Tech Stack:**
 
@@ -68,17 +72,27 @@ is an online browser based MMORPG
 * **Docker**
 * **SocketIO**
 * **MongoDB**
+* **Redis**
+* **HAProxy**
 * **Svelte**
 * **ExpressJS**
 * **SvelteKit**
 * **Tailwind CSS**
 * **Gitlab CI/CD**
 
+**Screenshots:**  
+
+![Feudal Home](img/Feudal_home.png)
+![Feudal Home](img/Feudal_inv.png)
+![Feudal Home](img/Feudal_menu.png)
+
 ### **IBM's Call for Code University Spot Challenge - Climate Change**
 
 [![Call for code logo](img/call_for_code.png)](https://callforcode.org/global-challenge/)
 
-Our team came first place in the disaster resiliency category [Link to repo](https://github.com/iLewisBrogan/callforcode-uhi)
+Our team came first place in the disaster resiliency category for IBM's 2020 Call for code University spot challenge, we created a prototype app that allowed communities to donate and link to resources that might help people and communities in the event of a disaster. We even employed the use of IBM Watson to create a chat bot that could provide additional support.
+
+[Link to repository](https://github.com/iLewisBrogan/callforcode-uhi)
 
 **Tech Stack:**
 
@@ -91,6 +105,14 @@ Our team came first place in the disaster resiliency category [Link to repo](htt
 * **IBM Cloud**
 * **IBM Watson**
 * **HERE Maps**
+
+**Screenshots:** 
+
+![Home screen](img/c4c-screen-home.png)
+![Donate screen](img/c4c-screen-donate.png)
+![Search Screen](img/c4c-screen-search.png)
+![Map Screen](img/c4c-screen-map.png)
+![Chat screen](img/c4c-screen-chat.png)
 
 ## 📃 Education & Certificates
 
