@@ -60,11 +60,14 @@ Mr Bit is a bot for discord and slack that was originally created to increase pr
 
 While working on Feudal, we needed a way to have access to the instances of Redis, MongoDB and be able to SSH into the dev server without accessing it directly via the internet (to mitigate some attacks), so I decided to create a tool that tunnels in via SSH and binds the port to the clients machine so they can access them as if they were running on their machine. This also utilises cloudflare ARGO tunneling so that we don't have the server directly accessible but via cloudflare, this also allowed me to directly plug in the authentication provider we use (Auth0) for the game itself and login using the same credentials as the game.
 
-The tool as most of my code is written, is in Javascript using NodeJS and neatly packaged into an EXE file, the tool will also download the required 'cloudflared' exe from the cloudflare github if it is missing or damaged and will also reconnect automatically on connection termination.
+The tool was originally written in Javascript using NodeJS and neatly packaged into an EXE file, but I have recently rewritten in C++ to reduce the size of the overall tool and to make it faster. The tool will also download the required 'cloudflared' exe from the cloudflare github and the plink exe if it is missing or damaged and will also reconnect automatically on connection termination.
 
 **Tech Stack:**
 
-* **NodeJS**
+* **C++**
+* **OpenSSL**
+* **Cloudflare Argo Tunneling**
+* **PuTTY Plink**
 
 **Screenshots:**
 ![Feudal Network Tool](img/feudal_network_tool.png)
